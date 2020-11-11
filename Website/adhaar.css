@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding-top: 2%;
+}
+
+.cont{
+  width: 900px;
+  height: 630px;
+  background: #24252A;
+  border-radius: 40px;
+  box-shadow: 0 19px 38px rgba(128, 128, 128, 0.30), 0 15px 12px rgba(128, 128, 128, 0.22);
+}
+
+.background {
+  padding-left:20%;
+  align-items: center;
+  display: flex;
+}
+
+img{
+  width:500px;
+}
+
+button{
+  font-size:20px;
+  width: 240px;
+  padding: 40px;
+  border-radius: 40px;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 200px;
+}
+
+.scan{
+  padding-left: 130px;
+}
