@@ -2,12 +2,13 @@
   box-sizing: border-box;
   margin: 0;
   padding-top: 2%;
+  background: #24252A;
 }
 
 .cont{
   width: 900px;
   height: 610px;
-  background: #24252A;
+  background: #fff;
   border-radius: 40px;
   box-shadow: 0 19px 38px rgba(128, 128, 128, 0.30), 0 15px 12px rgba(128, 128, 128, 0.22);
 }
@@ -19,7 +20,7 @@
 }
 
 .language{
-  background: #24252A;
+  background: #fff;
   overflow: hidden;
   position: relative;
   width: 900px;
@@ -27,7 +28,7 @@
 }
 
 li{
-  background-color: #24252A;
+  background-color: #fff;
   text-decoration: none;
 }
 
@@ -37,11 +38,24 @@ ul{
   padding-bottom: 100px;
   align-items: center;
   justify-content: center;
+  background-color: #fff;
+  border-radius:40px;
 }
 
-button{
+.button{
   font-size:40px;
   width: 240px;
   padding: 40px;
   border-radius: 40px;
+  background-color: #24252A;
+  color: #fff;
+}
+
+.adhaar{
+  background-color: #fff;
+  border-radius:40px;
+}
+
+form{
+  background-color: #fff;
 }
